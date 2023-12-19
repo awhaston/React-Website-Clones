@@ -1,12 +1,8 @@
-.container > * {
-	all: unset;
-}
-
 .container {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	height: 100dvh;
-	padding: 25px 1em 0 2em;
+	padding: 5px 1em 0 2em;
 }
 
 .outlet {
